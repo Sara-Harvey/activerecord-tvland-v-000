@@ -8,9 +8,4 @@ class Show < ActiveRecord::Base
       actor.full_name
     end
   end
-  
-      #self.artists.collect do |artist|
-      #artist.name
-  
-  
 end
